@@ -4,3 +4,8 @@
 # CMake
 cmake-build-debug/
 cmake-build-release/
+
+#Eclipse
+.cproject
+.project
+.settings/
